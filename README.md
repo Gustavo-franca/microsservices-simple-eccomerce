@@ -3,4 +3,4 @@ This Project is intended to document the services and architecture used to creat
 
 # Services
 hear is listed all services of simple ecommerce application
-- monolitic front-end application with react: [https://github.com/Gustavo-franca/simple-ecommerce-frontend](simple-ecommerce-frontend)
+- Monolitic front-end application with react: [simple-ecommerce-frontend](https://github.com/Gustavo-franca/simple-ecommerce-frontend)
